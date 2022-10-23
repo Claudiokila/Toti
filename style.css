@@ -1,0 +1,36 @@
+
+
+#menu{
+    text-align: center;
+    height: 50%;
+   
+    
+
+}
+
+.titulo{
+    font-family: 'Roboto Condensed', sem serifa;
+    color: #c55151;
+}
+button{
+    border-radius: 14px;
+    text-align: center;
+    width: 200px;
+    background-color: #009183;
+    align-items: center;
+    
+}
+a{
+    color: #FFFFFF;
+    font-family:'Roboto Condensed', sem serifa;
+    font-size: larger;
+    opacity: .7;
+}
+a:hover{
+    color:#0A63BC;
+    opacity: 1;
+    
+}
+p{
+    text-align: justify;
+}
